@@ -1,10 +1,10 @@
 <<<<<<< HEAD
 # Project-Using-MERN-
 =======
-# MERNA Task Manager App
+# MERN Task Manager App
 
 ## Overview
-MERNA Task Manager is a full-stack task management application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, update, delete, and manage tasks efficiently.
+MERN Task Manager is a full-stack task management application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, update, delete, and manage tasks efficiently.
 
 ## Features
 - User authentication (JWT-based login and registration)
@@ -32,8 +32,8 @@ Ensure you have the following installed:
 ### Steps
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/merna-task-manager.git
-   cd merna-task-manager
+   git clone https://github.com/yourusername/mern-task-manager.git
+   cd mern-task-manager
    ```
 
 2. **Backend Setup**
