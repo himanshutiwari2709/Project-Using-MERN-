@@ -33,7 +33,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
    ```sh
    git clone https://github.com/yourusername/mern-task-manager.git
-   cd merna-task-manager
+   cd mern-task-manager
    ```
 
 2. **Backend Setup**
